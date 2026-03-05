@@ -6,7 +6,7 @@
   "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
   "native_enabled": true,
   "native_id": "ca-app-pub-3940256099942544/2247696110",
-  "rewarded_enabled": false,
+  "rewarded_enabled": true,
   "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
   "interstitial_frequency": 3
 }
