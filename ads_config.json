@@ -11,7 +11,7 @@
   "open_ad_enabled": true,
   "open_ad_id": "ca-app-pub-3940256099942544/9257395921",
   "interstitial_frequency": 3,
-  "card_interstitial_frequency": 2,
+  "card_interstitial_frequency": 5,
   "use_fan_backup": true,
   "fan_banner_id": "IMG_16_9_APP_INSTALL",
   "fan_interstitial_id": "VID_HD_9_16_39S_APP_INSTALL",
